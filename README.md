@@ -102,6 +102,6 @@ This dataset is intended for **educational and research purposes only**. It cont
 
 ## Author
 
-**Prepared by:** Data Cleaning and Analysis Pipeline (ChatGPT & Ronit Shekhar)
+**Prepared by:** Data Cleaning and Analysis Pipeline (Ronit Shekhar)
 **Date:** November 2025
 **File Name:** `fintech_transactions_cleaned.csv`
